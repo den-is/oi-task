@@ -86,7 +86,7 @@ Security at all levels should be managed and guided by a dedicated SecOps team.
   - [GitLab CI](https://docs.gitlab.com/ee/ci/).
 - CD handles delivery and deployment.
   - [Argo Projects](https://argoproj.github.io/) ecosystem, specifically [ArgoCD](https://argoproj.github.io/cd/).
-- [Jenkins](https://www.jenkins.io/) can be used to build automation control-panels for ad-hoc tasks.
+- [Jenkins](https://www.jenkins.io/) can be used to build automation control-panels for ad-hoc tasks
 - Autoscaling:
   - Kubernetes cluster autoscaling is well-established and achieved through [HPA](https://kubernetes.io/docs/tasks/run-application/horizontal-pod-autoscale/) based on various performance metrics.
   - On-prem automation of Kubernetes worker node provisioning is impractical.
