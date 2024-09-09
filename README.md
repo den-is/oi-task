@@ -102,6 +102,7 @@ Security on all levels should be managed and guided by a dedicated SecOps team.
 ### PostgreSQL databases
 - Initially since Kubernetes has started I was against running DataBases workloads on kubernetes clusters
 - But for today I have big successfull experience with hosting PostgreSQL databases on kubernetes clusters. Especially happy with [CloudNativePG](https://cloudnative-pg.io/) operator.
+- Deploying such critical and stateful service in kubernetes clusters depends on reliable [storage](#storage) setup.
 
 ## Observability
 
