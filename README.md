@@ -22,7 +22,11 @@
 Based on the information retrieved during the initial call.  
 The multi-tenant HPC Platform is built on-premises and exists as a secure, private alternative to public cloud providers.  
 The core management framework for applications running on top of the platform is Kubernetes.  
-Kubernetes provides flexible application lifecycle management and tooling for building reliable, highly available modern platforms.
+Kubernetes provides flexible application lifecycle management and tooling for building reliable, highly available modern platforms.  
+
+The information below provides only a surface-level description of the required components for the platform's functionality (software-wise). Each category outlined here demands significant implementation effort and typically branches into multiple sub-projects. It is important to note that each area involves extensive work, coordination, and planning.  
+
+I am ready to take a leadership role in implementing any of these categories, providing guidance and management as needed. With extensive experience across all the described areas, I am well-equipped to oversee both the strategic planning and the practical execution required to ensure the platform is built to the highest standards.  
 
 ## Networking
 Physical networking should be designed by professional Network Architects.  
